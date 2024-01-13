@@ -37,6 +37,7 @@ The backend server will run at http://localhost:3000.
    - This fetches data with ID 124 (change the ID accordingly).
    - ![image](https://github.com/sri6703/task1/assets/113595807/640f9256-49f7-4b5a-a33d-2a0a993619fe)
    - ![image](https://github.com/sri6703/task1/assets/113595807/61993e33-1511-4bd8-9110-904ce5a11cb7)
+   - ![image](https://github.com/sri6703/task1/assets/113595807/be7baf72-a7e1-45c6-8aad-a04d59f46d34)
 
 3. **Fetch Data by Assignee:**
    - Set `GET` and send request to: `http://localhost:3000/api/data/assign/John Smith`
@@ -71,7 +72,11 @@ The backend server will run at http://localhost:3000.
 6. **Delete Data by ID:**
    - Set `DELETE` and send request to: `http://localhost:3000/api/data/124`
    - Deletes data with the given ID (change the ID accordingly).
-   - ![image](https://github.com/sri6703/task1/assets/113595807/be7baf72-a7e1-45c6-8aad-a04d59f46d34)
+   - ![image](https://github.com/sri6703/task1/assets/113595807/456c394c-0fc2-4fcc-b8be-431ee10f7204)
+   - ![image](https://github.com/sri6703/task1/assets/113595807/6edf889f-5237-4a2f-b24b-c133f6316c3a)
+
+
+   
 
 
 PHOTOS :
